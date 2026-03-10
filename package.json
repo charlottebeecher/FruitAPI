@@ -12,7 +12,7 @@
   },
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "nodeindex.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
